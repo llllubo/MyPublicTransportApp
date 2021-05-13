@@ -1,7 +1,7 @@
 Projekt: Vykreslenie a monitorovanie verejnej dopravy
 Verzia:  1.0
 Dátum:   17.05.2020
-Autori:  Ľuboš Vajčovec, xvajco00 | Samuel Gajdoš, xgajdo26
+Autori:  Ľuboš Bever | Samuel Gajdoš
 
 Aplikácia obsahuje interný časovač, ktorý simuluje skutočný čas v zrýchlenej podobe. Pomocou posuvného tlačidla je možné si celú mapku priblížiť alebo naopak oddialiť.
 

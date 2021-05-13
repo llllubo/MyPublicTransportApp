@@ -1,0 +1,86 @@
+{
+	
+	"Line 42":{
+		"Number of links": 10,
+		"Departure frequency": 30,
+		"Time-Stop": {
+			"10.00": "Train Station",
+			"10.06": "West House",
+			"10.08": "Stadium",
+			"10.11": "University",
+			"10.14": "North Church",
+			"10.17": "North Park",
+			"10.20": "Hospital",
+			"10.25": "Government",
+			"10.26": "Veterinary",
+			"10.29": "Nearby Hotel",
+			"10.32": "Museum",
+			"10.33": "Middle Park",
+			"10.36": "Post",
+			"10.38": "Police",
+			"10.39": "Short Garden",
+			"10.41": "Theatre",
+			"10.43": "Museum",
+			"10.45": "Field",
+			"10.47": "Food",
+			"10.50": "South Houses",
+			"10.53": "Cemetery"
+		}
+	},
+	"Line 18": {
+		"Number of links": 10,
+		"Departure frequency": 50,
+		"Time-Stop": {
+			"09:59": "Store",
+			"10.03": "Golf Court",
+			"10.10": "Forest Hill",
+			"10.13": "Shop",
+			"10.21": "Firehouse",
+			"10.24": "Police",
+			"10.26": "Post",
+			"10.27": "Bank",
+			"10.30": "Government",
+			"10.32": "Cross",
+			"10.34": "Factories",
+			"10.36": "Spa",
+			"10.39": "Garage",
+			"10.42": "Nearby Hotel",
+			"10.45": "Museum",
+			"10.47": "Middle Park",
+			"10.50": "Post",
+			"10.54": "Pool",
+			"10.57": "North Houses"
+		}
+	},
+	"Line 98": {
+		"Number of links": 10,
+		"Departure frequency": 20,
+		"Time-Stop": {
+			"10.00": "Bus Station",
+			"10.04": "Golf Court",
+			"10.11": "Forest Hill",
+			"10.15": "Shop",
+			"10.22": "Zoo",
+			"10.24": "Under Bridge",
+			"10.28": "Lost",
+			"10.31": "Theatre",
+			"10.33": "Museum",
+			"10.35": "Field",
+			"10.38": "Fitness",
+			"10.41": "Garage",
+			"10.44": "Veterinary",
+			"10.46": "Cross",
+			"10.49": "West House",
+			"10.51": "Stadium",
+			"10.55": "University",
+			"10.58": "North Church",
+			"11.01": "North Park",
+			"11.04": "Hospital",
+			"11.07": "Bank",
+			"11.08": "Post",
+			"11.09": "Police",
+			"11.13": "Firehouse",
+			"11.17": "Bus Station"
+		}
+	}
+}

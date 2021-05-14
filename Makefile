@@ -2,7 +2,7 @@
 # PROJECT: DISPLAY AND MONITORING OF PUBLIC TRANSPORT
 # VERSION: 1.0
 # DATE:    17.05.2020
-# AUTHORS: Lubos Vajcovec, xvajco00 | Samuel Gajdos, xgajdo26
+# AUTHORS: Lubos Bever | Samuel Gajdos
 
 all:
 	@cd src && qmake -o Makefile && make
